@@ -1,0 +1,12 @@
+contacts:
+  photo:
+    storage: etc/photos
+    resize-width: 150
+    resize-height: 150
+
+security:
+  user:
+    name: admin
+    password: admin123
+  basic:
+    realm: Please provide your authentication details

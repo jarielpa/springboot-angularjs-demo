@@ -1,0 +1,5 @@
+001|name1|fullName1|title1|email1@test.com|123 456 7890|skypeId1
+002|name2|fullName2|title2|email2@test.com|123 456 7891|skypeId2
+003|name3|fullName3|title3|email3@test.com|123 456 7892|skypeId3
+004|name4|fullName4|title4|email4@test.com|123 456 7893|skypeId4
+005|name5|fullName5|title5|email5@test.com|123 456 7894|skypeId5

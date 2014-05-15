@@ -1,0 +1,5 @@
+contacts:
+  photo:
+    storage: etc/photos
+    resize-width: 150
+    resize-height: 150
